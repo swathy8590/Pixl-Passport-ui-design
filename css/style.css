@@ -37,3 +37,7 @@
 .manrope {
     font-family: 'Manrope', sans-serif;
 }
+
+.rotation {
+    transform: rotate(-23deg) !important;
+}
